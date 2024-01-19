@@ -14,7 +14,7 @@
 - Benefits of flakes over traditional Nix, like pure evaluation, but similar benefits achievable with standard Nix.
 - Demonstrations of achieving pure evaluation in both flakes and traditional Nix.
 - Coverage of advanced Nix topics including input overriding, dependency tracking, and challenges in maintaining multiple Nix package instances.
-- Importance of community tools like 'Nix Flakes Utils' and 'Nev' for managing source updates and dependencies.
+- Importance of community tools like 'Nix Flakes Utils' and 'Niv' for managing source updates and dependencies.
 
 ### Insights Based on Numbers and Analysis
 1. **RFC Number 136** shows a structured approach towards stabilizing Nix flakes.
