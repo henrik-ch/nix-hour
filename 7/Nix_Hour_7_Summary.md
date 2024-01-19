@@ -20,7 +20,7 @@
 - **Using NixOS Tests for Integration Testing**: Explores the use of NixOS tests for comprehensive integration testing, particularly useful when services like databases are involved.
 - **Applying `passThrough` Attribute for Test Derivations**: Highlights the use of `passThrough` attribute to link package derivations to their respective tests.
 - **Practical Demonstrations**: Includes practical examples and demonstrations, such as filtering out specific files, writing a basic test script in a Nix expression, and using NixOS tests.
-- **Questions and Interactions**: The video session is interactive, with the presenter addressing questions from the audience related to Nix packages and testing.
+- **Questions and Interactions**: The video session is interactive, with Infinisil addressing questions from the audience related to Nix packages and testing.
 
 ### Insights Based on Numbers
 

@@ -11,7 +11,7 @@
 
 - **Debugging Closure Sizes in Nix Packages**: The video focuses on strategies to manage and debug closure sizes in Nix packages, specifically using the Nix package manager.
 - **Exploring Disallowed References**: A significant part of the video deals with 'disallowed references', a method in Nix to prevent certain packages from ending up in the build result. This is crucial for ensuring that unwanted dependencies don’t get reintroduced accidentally.
-- **Simulating Package Builds**: The presenter demonstrates simulating builds with various packages, such as OpenJDK and XF2, to understand how dependencies are managed and how closure sizes are affected.
+- **Simulating Package Builds**: Infinisil demonstrates simulating builds with various packages, such as OpenJDK and XF2, to understand how dependencies are managed and how closure sizes are affected.
 - **Using Hydra for Build Analysis**: The tool Hydra is used for analyzing builds. It provides a history of output sizes and build times, offering insight into how package sizes evolve over time.
 - **Dealing with Dependencies**: The video delves into managing dependencies, illustrating how to use 'allowed references' and 'disallowed references' to control what gets included in a package’s closure.
 - **Understanding Direct and Indirect Dependencies**: There's a discussion on the difference between direct dependencies (references) and the entire closure of dependencies (requisites).
